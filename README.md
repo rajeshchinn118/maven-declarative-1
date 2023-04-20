@@ -1,0 +1,1 @@
+# maven-declarative-1
